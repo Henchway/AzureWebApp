@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'NEOCCP-165'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E8EC5CAD1714794802756A261D96A69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4235F75ACAB944438C3D832F1BDDD1E5 }}
